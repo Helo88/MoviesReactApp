@@ -1,0 +1,66 @@
+{
+    "Search": {
+        "1": "Search"
+    },
+    "Movies": {
+        "1": "Movies"
+    },
+    "Register": {
+        "1": "Register"
+    },
+    "Login":{
+        "1":"Login"
+    },
+    "Favourites":{
+        "1":"Favourites"
+    },
+    "arabic":{
+        "1":"arabic"
+    },
+    "back to movies":{
+        "1":"back to movies"
+    },
+    "Movie Name":
+    {"1":"Movie Name"},
+    "none":{
+     "1":"none"
+    },
+    "Release Date":{
+        "1":"Release Date"
+       },
+       "Overview":{
+        "1":"Overview"
+       },
+       "Vote Average":{
+        "1":"Vote Average"},
+        "Register Form":{
+           "1":"Register Form" 
+        },
+        "Enter Your Name":{
+            "1":"Enter Your Name" 
+         },
+         "Enter Your Email":{
+            "1":"Enter Your Email" 
+         },
+         "Enter Your UserName":{
+            "1":"Enter Your UserName" 
+         },
+         "Enter Your Password":{
+            "1":"Enter Your Password" 
+         },
+         "Confirm Password":{
+            "1":"Confirm Password" 
+         },
+         "Submit":{
+            "1":"Submit" 
+         },
+         "Login Form":{
+             "1":"Login Form"
+         },
+         "Login In":{
+            "1":"Log In"
+        },
+        "Logout":{
+            "1":"Logout"
+        }
+}
